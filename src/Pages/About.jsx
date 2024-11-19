@@ -5,7 +5,7 @@ import Container from "../Componets/Container";
 const About = () => {
   return (
     <Container>
-      <SectionTitle title={"About Page"} />
+      <SectionTitle title={"About Pages"} />
     </Container>
   );
 };

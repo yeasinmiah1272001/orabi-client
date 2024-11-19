@@ -3,7 +3,7 @@ import Container from "../Componets/Container";
 import SectionTitle from "../Componets/SectionTitle";
 import { useSelector } from "react-redux";
 import CartItem from "../Componets/CartItem";
-import { Link } from "react-router-dom"; // Import Link for navigation
+import { Link } from "react-router-dom";
 
 const CartPage = () => {
   const { cart } = useSelector((state) => state.orabi);

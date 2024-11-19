@@ -5,7 +5,7 @@ import SectionTitle from "../Componets/SectionTitle";
 const Order = () => {
   return (
     <Container>
-      <SectionTitle title={"Order Page"} />
+      <SectionTitle title={"Order Pages"} />
     </Container>
   );
 };
